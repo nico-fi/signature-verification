@@ -1,2 +1,3 @@
-# signature-verification
-Corso di Modelli e Metodi per la Sicurezza delle Applicazioni
+# Signature Verification System
+
+Sistema per la verifica di autenticità di firme estratte da moduli PDF.
